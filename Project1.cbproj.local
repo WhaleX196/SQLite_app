@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.468,=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\sqlite\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.270,C:\Users\123\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\123\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.898,C:\Users\123\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\Project1.cbproj=C:\Users\123\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.354,C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\Project1.cbproj=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.526,=C:\Users\123\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.165,=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\sqlite\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\sqlite\sqlite3ext.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.859,=C:\Users\123\Documents\1. УрФУ ИРИТ РтФ\Хорьков\Laba2\sqlite\sqlite3.c</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.699,=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>
